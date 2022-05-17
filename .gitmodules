@@ -1,0 +1,8 @@
+[submodule "apollo"]
+	path = apollo
+	url = git@github.com:ivanium/apollo
+	branch = automation
+[submodule "scenoRITA"]
+	path = scenoRITA
+	url = git@github.com:ivanium/autoT
+	branch = master
