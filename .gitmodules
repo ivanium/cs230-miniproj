@@ -2,7 +2,7 @@
 	path = apollo
 	url = git@github.com:ivanium/apollo
 	branch = automation
-[submodule "scenoRITA"]
-	path = scenoRITA
+[submodule "autoT"]
+	path = autoT
 	url = git@github.com:ivanium/autoT
 	branch = master
